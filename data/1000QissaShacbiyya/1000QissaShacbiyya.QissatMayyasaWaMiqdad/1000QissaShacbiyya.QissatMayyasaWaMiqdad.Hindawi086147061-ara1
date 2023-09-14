@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1000QissaShacbiyya.QissatMayyasaWaMiqdad.Hindawi86147061",
-    "BookCats": "novels",
-    "BookID": "86147061",
-    "BookTitle": "قصة الميَّاسة والمقداد",
-    "AuthorID": "",
-    "AuthorNam": "",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1000QissaShacbiyya.QissatMayyasaWaMiqdad.Hindawi86147061
+#META# Tags: novels
+#META# ID: 86147061
+#META# Title: قصة الميَّاسة والمقداد
+#META# AuthorID: 
+#META# Author: 
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
