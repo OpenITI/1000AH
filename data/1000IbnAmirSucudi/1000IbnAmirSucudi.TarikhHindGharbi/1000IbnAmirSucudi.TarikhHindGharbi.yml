@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -19,4 +20,4 @@
     the author tried to give a synoptic geographical description of the old world,
     and to enrich it with knowledge about the newly discovered parts of the earth
     (yeni dünya). For the sake of the latter, he seems to be using translations
-    of Italian sources." 
+    of Italian sources."
